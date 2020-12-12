@@ -18,5 +18,5 @@
 
 <b>Data Collection</b>
 
-<p style="text-align:justify;">Target group was the people who are using banking mobile apps in Sri Lanka. Data was collected via facebook.113 responses received.</p>
+<p style="text-align:justify;">Target group is the people who are using banking mobile apps in Sri Lanka. Data was collected via facebook.113 responses received.</p>
 
