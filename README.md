@@ -16,3 +16,7 @@
 <li>Question 4: What is the perception of the customers who use the mobile apps about the security of the application?</li>
 <li>Question 5: How is the customer satisfaction about the banking mobile apps?</li>
 
+<b>Data Collection</>
+
+<pstyle="text-align:justify;">Target group was the people who are using banking mobile apps in Sri Lanka. Data was collected via facebook. 113 responses received.</p>
+
